@@ -1,0 +1,7 @@
+Welcome to [c/ffff00:%map%] using [c/7ddff8:T][c/81dbf6:S][c/86d7f4:h][c/8ad3f3:o][c/8ecef1:c][c/93caef:k] on the [c/0047AB:TerraNODE] network!
+[c/FFFFFF: Playing Players Playing (%onlineplayers%/%serverslots%):]
+[c/0047AB:%players%]
+Type [c/ff0000:%specifier%help] for a list of commands.
+Type [c/ff0000:%specifier%rules] for the rules.
+Type [c/ff0000:%specifier%wiki] for the wiki link.
+Type [c/ff0000:%specifier%discord] for the discord link.
